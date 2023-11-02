@@ -1,0 +1,1 @@
+streamlit run PI2.py
